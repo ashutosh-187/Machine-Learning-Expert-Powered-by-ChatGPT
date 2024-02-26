@@ -16,6 +16,7 @@ from PyQt5.QtWidgets import (
     QTextEdit
 )
 
+#OpenAI API key(Where constants is a python file which includes key's information)
 openai.api_key = Constants.API_key
 
 class Main_Window(QWidget) : 
