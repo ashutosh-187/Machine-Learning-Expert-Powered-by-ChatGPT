@@ -3,7 +3,7 @@ This project involves developing a chat bot application using the OpenAI APIs fo
 The chat bot will be capable of engaging in conversations with users, responding to queries, and providing relevant information based on the input received.
 OpenAI modules and PyQt5 library are used in the process to develop this machine learning project which utilizing OpenAI's ChatGPT to create a conversational interface that offers expert-level advice in various machine learning domains. 
 
-        ![Screenshot (162)](https://github.com/ashutosh-187/Machine-Learning-Expert-Powered-by-ChatGPT/assets/137859956/31faebdb-dd39-41b7-8830-d645d09fdec0)
+![Screenshot (162)](https://github.com/ashutosh-187/Machine-Learning-Expert-Powered-by-ChatGPT/assets/137859956/31faebdb-dd39-41b7-8830-d645d09fdec0)
 
 OpenAI Plugin Integration:
 Utilize the OpenAI API, specifically the GPT (Generative Pre-trained Transformer) models, to power the chat bot's conversational abilities.
