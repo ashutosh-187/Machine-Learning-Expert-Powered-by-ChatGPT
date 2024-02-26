@@ -28,8 +28,6 @@ class Main_Window(QWidget) :
     def init_ui(self) : 
         #Create the Widgets
         self.logo_label = QLabel()
-        self.logo_pixmap = QPixmap("ChatBot.jpg").scaled(150, 150, Qt.KeepAspectRatio, Qt.SmoothTransformation)
-        self.logo_label.setPixmap(self.logo_pixmap)
         self.input_label = QLabel("Start Chatting:")
         self.input_field = QLineEdit()
         self.input_field.setPlaceholderText("Enter your message here.")
